@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../dats-kontrol-1kW-hardware/dats-kontrol-1kw-sysmin.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
