@@ -1,4 +1,4 @@
-21603002786698749
+21531110108121542
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2327,13 +2327,6 @@ Buzzer_Beeper
 MagneticBuzzer_Kingstate_KCG0601
 Buzzer, Elektromagnetic Beeper, Summer,
 Kingstate KCG0601 
-0
-2
-2
-Buzzer_Beeper
-MagneticBuzzer_Kobitone_254-EMB73-RO
-MagneticBuzzer_Kobitone_254-EMB73-RO https://www.mouser.es/datasheet/2/209/joytech_11092018_KT-400379-1501513.pdf
-MagneticBuzzer_Kobitone_254-EMB73-RO
 0
 2
 2
@@ -7972,13 +7965,6 @@ THT Mini XLR 5Pin right angle
 0
 5
 5
-Connector_Audio
-Plug_3.5mm_CUI_SP-3541
-4 contacts, 3.5mm audio plug, https://www.cuidevices.com/product/resource/pdf/sp-3541.pdf
-3.5mm plug TRRS
-0
-4
-4
 Connector_BarrelJack
 BarrelJack_CLIFF_FC681465S_SMT_Horizontal
 Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf
@@ -8370,13 +8356,6 @@ Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.co
 mcrf hirose ufl u.fl microcoaxial
 0
 4
-2
-Connector_Coaxial
-WR-MMCX_Wuerth_66011102111302_Horizontal
-Würth WR-MMCX PCB SMT Jack, Horizontal (https://www.we-online.com/components/products/datasheet/66011102111302.pdf)
-Coaxial Connector 50 ohms Female
-0
-7
 2
 Connector_DIN
 DIN41612_B2_2x8_Female_Vertical_THT
@@ -46816,13 +46795,6 @@ USB-A receptacle horizontal through-hole
 6
 5
 Connector_USB
-USB_A_CUI_UJ2-ADH-TH_Horizontal_Stacked
-USB-A two stacked horizontal receptacle, through-hole (https://www.cuidevices.com/product/resource/uj2-adh-th.pdf)
-USB-A CUI stacked horizontal through-hole
-0
-12
-9
-Connector_USB
 USB_A_Molex_67643_Horizontal
 USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf
 USB_A Female Connector receptacle
@@ -53130,13 +53102,6 @@ http://www.display-elektronik.de/filter/DE122-RS-20_635.pdf
 50
 50
 Display_7Segment
-DE152-XX-XX
-https://tft-module.de/filter/DE152-RS-20_75.pdf
-4 digit 7 segment LCD 
-0
-40
-40
-Display_7Segment
 DE170-XX-XX
 http://www.display-elektronik.de/filter/DE170-RS-20_75.pdf
 3 1/5 digit reflective arrow bat + 7 segment LCD 
@@ -53521,13 +53486,6 @@ emi filter
 0
 5
 5
-Footprint terminal blok
-TB003V500P03BE
-TB003V-500-P03BE-1
-Connector
-0
-3
-3
 Fuse
 Fuse_0402_1005Metric
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
@@ -60123,13 +60081,6 @@ LED RGB NeoPixel
 6
 6
 LED_SMD
-LED_Wurth_150044M155260
-Wurth Common anode RGB LED, SMD, 0404, 1x1x1.65mm, https://www.we-online.com/catalog/datasheet/150044M155260.pdf
-LED RGB ARGB 
-0
-4
-4
-LED_SMD
 LED_Yuji_5730
 LED,Yuji,5730,https://cdn.shopify.com/s/files/1/0344/6401/files/YJWJ014-1.1_YJ-BC-5730L-G02.pdf
 LED Yuji 5730
@@ -60899,13 +60850,6 @@ Maple Mini
 0
 40
 40
-Module
-Olimex_MOD-WIFI-ESP8266-DEV
-ESP8266 development board https://www.olimex.com/Products/IoT/ESP8266/MOD-WIFI-ESP8266-DEV/resources/dimensions-WIFI-ESP8266-DEV.png
-ESP8266
-0
-22
-22
 Module
 Onion_Omega2+
 https://onion.io/omega2/
@@ -63448,13 +63392,6 @@ Broadcom DFN NoLead
 6
 6
 OptoDevice
-Broadcom_LGA-8_2x2mm_P0.5mm
-Broadcom  LGA, 8 Pin (https://docs.broadcom.com/doc/APDS-9251-001-DS#page=19), generated with kicad-footprint-generator ipc_noLead_generator.py
-Broadcom LGA NoLead
-0
-8
-8
-OptoDevice
 Broadcom_LGA-8_2x2mm_P0.53mm
 Broadcom  LGA, 8 Pin (https://docs.broadcom.com/docs/AV02-4755EN), generated with kicad-footprint-generator ipc_noLead_generator.py
 Broadcom LGA NoLead
@@ -64365,13 +64302,6 @@ SMD SMT crystal oscillator hand-soldering
 4
 4
 Oscillator
-Oscillator_SMD_SiTime_PQFD-6L_3.2x2.5mm
-3.2x2.5mm, 6-pin QFN (https://www.sitime.com/datasheet/SiT9365 page 13)
-SMD SMT mems oscillator
-0
-6
-6
-Oscillator
 Oscillator_SMD_SiTime_SiT9121-6Pin_3.2x2.5mm
 3.2x2.5mm, 1-220MHz High Performance Differential Oscillator SiTime SiT9121 https://www.sitime.com/datasheet/SiT9121
 SMD SMT crystal oscillator
@@ -64434,13 +64364,6 @@ BGA 49 0.8
 0
 49
 49
-Package_BGA
-Analog_BGA-209_9.5x16mm_Layout11x19_P0.8mm_Ball0.5mm_Pad0.4mm
-Analog BGA-209 (Reference LTC DWG#05-08-1561 Rev B), 9.5x16.0mm, 209 Ball, 11x19 Layout, 0.8mm Pitch, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-bga/05081561_bga209.pdf
-BGA 209 0.8
-0
-209
-209
 Package_BGA
 BGA-9_1.6x1.6mm_Layout3x3_P0.5mm
 BGA-9, http://www.ti.com/lit/ds/symlink/bq27421-g1.pdf
@@ -64973,13 +64896,6 @@ BGA 265 0.8
 0
 265
 265
-Package_BGA
-Texas_BGA-289_15.0x15.0mm_Layout17x17_P0.8mm_Ball0.5mm_Pad0.4mm
-Texas Instruments BGA-289, 0.4mm pad, 15x15mm, 289 Ball, 17x17 Layout, 0.8mm Pitch, https://www.ti.com/lit/ml/mpbg777/mpbg777.pdf
-BGA 289 0.8 ZAV S-PBGA-N289
-0
-289
-289
 Package_BGA
 Texas_DSBGA-5_0.822x1.116mm_Layout2x1x2_P0.4mm
 Texas Instruments, DSBGA, 0.822x1.116mm, 5 bump 2x1x2 array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/opa330.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)
@@ -65865,34 +65781,6 @@ LFCSP NoLead
 Package_CSP
 LFCSP-40-1EP_6x6mm_P0.5mm_EP3.9x3.9mm_ThermalVias
 LFCSP, 40 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_40_14.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-LFCSP NoLead
-0
-55
-41
-Package_CSP
-LFCSP-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm
-LFCSP, 40 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-40/CP_40_15.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-LFCSP NoLead
-0
-45
-41
-Package_CSP
-LFCSP-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm_ThermalVias
-LFCSP, 40 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-40/CP_40_15.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-LFCSP NoLead
-0
-55
-41
-Package_CSP
-LFCSP-40-1EP_6x6mm_P0.5mm_EP4.65x4.65mm
-LFCSP, 40 Pin (https://www.jedec.org/system/files/docs/MO-220K01.pdf (variation VJJD-5)), generated with kicad-footprint-generator ipc_noLead_generator.py
-LFCSP NoLead
-0
-45
-41
-Package_CSP
-LFCSP-40-1EP_6x6mm_P0.5mm_EP4.65x4.65mm_ThermalVias
-LFCSP, 40 Pin (https://www.jedec.org/system/files/docs/MO-220K01.pdf (variation VJJD-5)), generated with kicad-footprint-generator ipc_noLead_generator.py
 LFCSP NoLead
 0
 55
@@ -69153,20 +69041,6 @@ TQFN NoLead
 31
 17
 Package_DFN_QFN
-TQFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm
-TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF (T2044-5C)), generated with kicad-footprint-generator ipc_noLead_generator.py
-TQFN NoLead
-0
-25
-21
-Package_DFN_QFN
-TQFN-20-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias
-TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0139.PDF (T2044-5C)), generated with kicad-footprint-generator ipc_noLead_generator.py
-TQFN NoLead
-0
-35
-21
-Package_DFN_QFN
 TQFN-20-1EP_4x4mm_P0.5mm_EP2.9x2.9mm
 TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-100172.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
 TQFN NoLead
@@ -69797,13 +69671,6 @@ Texas QFN NoLead
 14
 14
 Package_DFN_QFN
-Texas_UQFN-10_1.5x2mm_P0.5mm
-Texas RSE0010A UQFN, 10 Pin (https://www.ti.com/lit/ml/mpqf186d/mpqf186d.pdf)
-Texas RSE0010 UQFN NoLead
-0
-10
-10
-Package_DFN_QFN
 Texas_VQFN-RHL-20
 http://www.ti.com/lit/ds/symlink/bq51050b.pdf
 RHL0020A
@@ -69824,13 +69691,6 @@ Texas VSON-HR NoLead
 0
 8
 8
-Package_DFN_QFN
-Texas_WQFN-10_2x2mm_P0.5mm
-Texas  WQFN, 10 Pin (https://www.ti.com/lit/ds/symlink/tmp461.pdf#page=35 (RUN0010A)), generated with kicad-footprint-generator ipc_noLead_generator.py
-Texas WQFN NoLead
-0
-10
-10
 Package_DFN_QFN
 Texas_WQFN-MR-100_3x3-DapStencil
 http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=mpqf258&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=LPPD235&fileType=pdf
@@ -72688,13 +72548,6 @@ Analog Devices (Linear Tech), 133-pin LGA uModule, 15.0x15.0x4.32mm, https://www
 133
 133
 Package_LGA
-MPS_LGA-18-10EP_12x12mm_P3.3mm
-MPS LGA-18 12x12x3.82mm (https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MPM3550EGLE/document_id/5102/)
-MPS LGA
-0
-18
-18
-Package_LGA
 NXP_LGA-8_3x5mm_P1.25mm_H1.1mm
 NXP  LGA, 8 Pin (https://www.nxp.com/docs/en/data-sheet/MPL3115A2.pdf#page=42), generated with kicad-footprint-generator ipc_noLead_generator.py
 NXP LGA NoLead
@@ -74220,13 +74073,6 @@ Power Integrations K Package
 0
 12
 12
-Package_SO
-PowerPAK_SO-8L_Single
-PowerPAK SO-8L Single (https://www.vishay.com/docs/64721/an913.pdf)
-PowerPAK SO-8L_Single
-0
-13
-5
 Package_SO
 PowerPAK_SO-8_Dual
 PowerPAK SO-8 Dual (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72600/72600.pdf)
@@ -76888,13 +76734,6 @@ SOT-563
 6
 6
 Package_TO_SOT_SMD
-SOT-583-8
-https://www.ti.com/lit/ds/symlink/tps62933.pdf
-SOT-583-8
-0
-8
-8
-Package_TO_SOT_SMD
 SOT-665
 SOT665
 SOT-665
@@ -77314,13 +77153,6 @@ SOT R-PDSO-N5 DRL
 0
 5
 5
-Package_TO_SOT_SMD
-Texas_R-PDSO-N6_DRL-6
-R-PDSO-N6, DRL, similar to JEDEC MO-293B Var UAAD (but not the same) , https://www.ti.com/lit/pdf/mpds159f
-SOT R-PDSO-N6 DRL
-0
-6
-6
 Package_TO_SOT_SMD
 VSOF5
 VSOF5
@@ -79939,20 +79771,6 @@ APAES patch antenna
 0
 1
 1
-RF_Antenna
-Abracon_PRO-OB-440
-Abracon OnBoard SMD antenna 2400-2500Mhz, https://abracon.com/datasheets/PRO-OB-440.pdf
-2400 PRO-OB-440 Antenna
-0
-4
-4
-RF_Antenna
-Abracon_PRO-OB-471
-OnBoard 868/915/868+2400 MHz Antenna, https://abracon.com/datasheets/PRO-OB-471.pdf
-Antenna ProAnt OnBoard 868Mhz 915Mhz 2400Mhz
-0
-6
-6
 RF_Antenna
 Coilcraft_MA5532-AE_RFID
 RFID Transponder Coil
@@ -88822,13 +88640,6 @@ transformer flyback
 0
 6
 6
-Transformer_SMD
-Transformer_Wurth_WE-AGDT-EP7
-WE-AGDT Auxiliary Gate Drive Transformer EP7, https://www.we-online.com/components/products/datasheet/750319177.pdf
-auxiliary gate drive transformer
-0
-8
-8
 Transformer_THT
 Autotransformer_Toroid_1Tap_Horizontal_D9.0mm_Amidon-T30
 Autotransformer, Toroid, horizontal, laying, 1 Tap, Diameter 9mm, Amidon T30,
@@ -90089,3 +89900,24 @@ module BlluePill Blue Pill header SWD breakout
 0
 40
 40
+symbols
+gut_11mm
+
+
+0
+0
+0
+symbols
+gut_25mm
+
+
+0
+0
+0
+symbols
+modrive_16mm
+
+
+0
+0
+0

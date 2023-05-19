@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "XT30")(type "KiCad")(uri "${KIPRJMOD}/external_cad_lib/XT30PW-F")(options "")(descr ""))
   (lib (name "blackpill")(type "KiCad")(uri "${KIPRJMOD}/external_cad_lib/blackpill")(options "")(descr ""))
+  (lib (name "symbols")(type "KiCad")(uri "${KIPRJMOD}/external_cad_lib/symbols")(options "")(descr ""))
 )
